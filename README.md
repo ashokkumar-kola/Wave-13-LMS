@@ -122,16 +122,6 @@ Please ensure your code follows the project’s coding standards and includes ap
 
 ---
 
-## 🙌 Contributors
-
-| Avatar | Name | GitHub | Contributions |
-|--------|------|--------|----------------|
-| <img src="./CONTRIBUTORS/ashokkumar.jpeg" width="50" height="50" alt="Ashok Kumar Kola" /> | **Ashok Kumar Kola** | [@ashokkumar-kola](https://github.com/ashokkumar-kola) | Project Developer |
-
-<!-- Add more rows below as needed -->
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
