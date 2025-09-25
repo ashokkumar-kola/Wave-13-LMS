@@ -1,7 +1,7 @@
 
 ---
 
-# E-Learning LMS Platform BY Wave 13
+# E-Learning LMS Platform BY Wave 13 & Co.
 
 An advanced Learning Management System (LMS) built with **FastAPI** on the backend and **React** on the frontend. This platform supports three types of users—**Admin**, **Teacher**, and **Student**—and provides comprehensive features for course management, assignments, attendance tracking, grading, and more.
 
